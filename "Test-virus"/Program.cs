@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace tstTakePhoto
+namespace test_vir
 {
     static class Program
     {
