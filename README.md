@@ -8,4 +8,4 @@ Code-poor programs, but help me manage lenny faces quickly.
 # ascii-art
 Coverts your img from path into ascii-art.
 
-![Example](https://imgur.com/a/I8IdIaK)
+![Example](EXAMPLES/zTgq4VW6CW.jpg)
