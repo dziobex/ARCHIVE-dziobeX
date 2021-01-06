@@ -16,8 +16,8 @@ namespace ascii_movie {
             if (!File.Exists(path)) {
                 Console.WriteLine("Couldn't find the file :[");
                 return;
-            } else if (path.Substring(path.Length-3, 3) != "mov" && path.Substring(path.Length - 3, 3) != "mp4" && path.Substring(path.Length - 3, 3) != "mp3" && path.Substring(path.Length - 3, 3) != "avi") {
-                Console.WriteLine("Invalid format. Availabe formats: mov, mp4, mp3, avi.");
+            } else if (path.Substring(path.Length-3, 3) != "mov" && path.Substring(path.Length - 3, 3) != "mp4" && path.Substring(path.Length - 3, 3) != "avi") {
+                Console.WriteLine("Invalid format. Availabe formats: mov, mp4, avi.");
                 return;
             }
 
