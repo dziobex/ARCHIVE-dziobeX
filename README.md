@@ -9,3 +9,8 @@ Code-poor programs, but help me manage lenny faces quickly.
 Coverts your img from path into ascii-art.
 
 ![Example](EXAMPLES/zTgq4VW6CW.jpg)
+
+# asciimovie
+Converts your video from path into asci-video/movie.
+
+![Example](EXAMPLES/35sfjY9uvw.mp4)
